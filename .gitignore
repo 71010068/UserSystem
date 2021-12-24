@@ -13,3 +13,8 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# 自己写的忽略
+*.idea
+*.vscode
+*.log
